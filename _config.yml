@@ -1,0 +1,23 @@
+name: ckalima
+favicon: null
+layout_spectrum: 0.8009008581284434
+typography_spectrum: 0.6168183241970837
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6199447023682296
+  lightness: 0.8212965077254921
+  saturation: 0.6287734492216259
+  rhythmicContrast: 0.8749563510064036
+purpose: []
